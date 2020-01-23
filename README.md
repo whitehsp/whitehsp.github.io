@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## SMAD 408 GITHUB PAGE
 
 You can use the [editor on GitHub](https://github.com/whitehsp/whitehsp.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
